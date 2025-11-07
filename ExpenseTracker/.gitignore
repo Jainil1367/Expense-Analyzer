@@ -13,3 +13,8 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+# IDE/project files
+backend-java/.classpath
+backend-java/.project
+backend-java/.vscode/
