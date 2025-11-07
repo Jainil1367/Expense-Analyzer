@@ -1,0 +1,15 @@
+# Ignore Maven/Java build output
+/backend-java/target/
+**/target/
+
+# Python virtual envs
+.venv/
+env/
+
+# Pycache
+**/__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
